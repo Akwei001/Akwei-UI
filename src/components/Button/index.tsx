@@ -1,8 +1,7 @@
-import React from 'react'
 
 const Button = () => {
   return (
-    <button>Button</button>
+    <button className="text-blue-500">Button</button>
   )
 }
 
